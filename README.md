@@ -56,11 +56,11 @@ imblearn.undersampling.NearMiss class is used for dealing with the issue.
 ### Model Fitting and Selection: 
 The main focus of this project is on building a deep neural network to predict customer churn.
 
-### Model Evaluation: 
-The performance of the deep neural network model is evaluated using appropriate evaluation metrics, such as accuracy, precision, recall, and F1 score.
-
 ### Test Data Prediction:
 The final trained deep neural network model is applied to unseen test data to evaluate its performance on new observations. The metrics calculated during this step provide insights into the model's generalization ability.
+
+### Model Evaluation: 
+The performance of the deep neural network model is evaluated using appropriate evaluation metrics, such as accuracy, precision, recall, and F1 score.
 
 
 ## Conclusion
